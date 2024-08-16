@@ -1,6 +1,6 @@
 # Industrial IoT Safeguard
 
-**Industrial IoT Safeguard** is a cutting-edge solution designed to prevent industrial accidents and protect workers from heavy machinery-related hazards. By leveraging the power of IoT devices, this project aims to proactively monitor, detect, and respond to potential dangers in industrial environments, ensuring the safety and well-being of personnel.
+**Industrial IoT Safeguard** is a cutting-edge solution designed to prevent industrial accidents and protect workers from heavy machinery-related hazards. By leveraging the power of IoT devices, this project aims to proactively monitor, detect, and respond to potential dangers in industrial environments, ensuring the safety and well-being of personal.
 
 ## Features and Functionality
 
